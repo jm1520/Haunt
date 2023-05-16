@@ -8,4 +8,4 @@ Themed as a paranoia-inducing horror scavenger hunt for souls, we did our best t
 
 
 ## Authors
-Created by Michael Flaherty, Jerstine-May Medrano, and Morgan Buell (aka Borgan Muell)
+Created by Michael Flaherty, Jerstine-Mhay Medrano, and Morgan Buell (aka Borgan Muell)
